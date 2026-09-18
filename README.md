@@ -1,3 +1,13 @@
+<!--
+  Name: Sangye Tengkhar
+  Date: 09.17.2026
+  CSC 372-01
+
+  This is the readme file for my Campus Event Guide project.
+  It explains the project's purpose, layout decisions, responsive design
+  choices, semantic HTML usage, and the sources for images and fonts.
+-->
+
 # Northbridge Campus Event Guide
 
 ## Project Description
@@ -55,14 +65,13 @@ These elements make the document structure easier to understand for browsers, sc
   and are used under the Unsplash License. The images are:
   - `campus-walk.jpg` – students walking on campus
   - `concert.jpg` – outdoor concert crowd
-  - `tree-plantation.jpg` – volunteers planting trees
+  - `volunteer.jpg` – volunteers planting trees
   - `career-fair.jpg` – career fair conversation
   - `movie-outdoors.jpg` – outdoor movie screening
   - `yoga.jpg` – yoga on the lawn
   - `hackathon.jpg` – students collaborating on laptops
 
 
-- **Fonts:** The site uses the system font stack
-  (`system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif`).
+- **Fonts:** The site uses a standard web-safe font stack (`Arial, Helvetica, sans-serif`).
 
 - **Content:** All university names, event names, locations, schedules, and descriptions are fictional and were invented for this assignment.
